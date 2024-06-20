@@ -1,0 +1,67 @@
+.navbar-logo img{
+    height: 40px;
+}
+
+#inicio{
+    background-color: #000000;
+}
+
+body{
+    background-color: #000000;
+}
+
+@media screen and (min-width: 768px) {
+    #inicio{
+        background-color: transparent;
+    }
+}
+
+#quienes{
+    color: #ffffff;
+    text-align: center;
+}
+
+#contacto{
+    color: #ffffff;
+}
+
+.quien-icon{
+    background-color: rgb(28, 147, 169);
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+}
+
+.quien-parrafo{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#destacados-titulo{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+#contacto-titulo{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+footer{
+        background-color: rgb(28, 147, 169);
+}
+
+footer a{
+    color: #ffffff;
+}
